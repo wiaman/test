@@ -2,3 +2,5 @@ Test File
 This is another line that will conflict with someone else.
 
 not this
+
+These are more changes that Mike doesn't know about
